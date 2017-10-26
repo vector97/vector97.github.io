@@ -18,3 +18,5 @@
 ***[Практика №5](https://vector97.github.io/practice_5/src/ "Практика №5")*** - Верстка всплывающих окон на сайте.  
 [Урок №18.1](https://vector97.github.io/lesson_18/src/ "Урок 18.1") - Форма регистрации.  
 [Урок №18.2](https://vector97.github.io/lesson_18.2/src/ "Урок 18.2") - "Аккордеон".  
+***[Практика №6](https://vector97.github.io/practice_6/src/ "Практика №6")*** - Верстка блока с ценами.  
+
