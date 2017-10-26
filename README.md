@@ -20,3 +20,4 @@
 [Урок №18.2](https://vector97.github.io/lesson_18.2/src/ "Урок 18.2") - "Аккордеон".  
 ***[Практика №6](https://vector97.github.io/practice_6/src/ "Практика №6")*** - Верстка блока с ценами.  
 
+***[Практика №7](https://vector97.github.io/practice_7/src/ "Практика №7")*** - Верстка блока с отзывами.  
