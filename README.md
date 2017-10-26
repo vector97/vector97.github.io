@@ -17,3 +17,4 @@
 [Урок №17](https://vector97.github.io/lesson_17/src/ "Урок 17") - Всплывающие окна.  
 ***[Практика №5](https://vector97.github.io/practice_5/src/ "Практика №5")*** - Верстка всплывающих окон на сайте.  
 [Урок №18.1](https://vector97.github.io/lesson_18/src/ "Урок 18.1") - Форма регистрации.  
+[Урок №18.2](https://vector97.github.io/lesson_18.2/src/ "Урок 18.2") - "Аккордеон".  
