@@ -24,7 +24,7 @@
 ***[Практика №07](https://vector97.github.io/practice_7/src/ "Практика №07")*** - Верстка блока с отзывами.  
 
 ***[Практика №08](https://vector97.github.io/practice_8/src/ "Практика №08")*** - Доверстали блок с отзывами.  
-
+[Урок №21](https://vector97.github.io/lesson_21/src/ "Урок 21") - Parallax эффект для сайта.  
 ***[Практика №09](https://vector97.github.io/practice_9/src/ "Практика №09")*** - Верстаем схему работы и все включено.  
 [Урок №22](https://vector97.github.io/lesson_22/src/ "Урок 22") - Гео-карты для сайта.  
 ***[Практика №10](https://vector97.github.io/practice_10/src/ "Практика №10")*** - Верстаем блок "Развеиваем сомнения".  
