@@ -15,3 +15,4 @@
 [Урок №16](https://vector97.github.io/lesson_16/src/ "Урок 16") - Слайдер на сайте.  
 ***[Практика №4](https://vector97.github.io/practice_4/src/ "Практика №4")*** - Верстка блока с преимуществами. Слайдер.  
 [Урок №17](https://vector97.github.io/lesson_17/src/ "Урок 17") - Всплывающие окна.  
+***[Практика №5](https://vector97.github.io/practice_5/src/ "Практика №5")*** - Верстка всплывающих окон на сайте.  
